@@ -78,8 +78,10 @@ Video
 Image
 Messages
 Message
+Chat
 ScyllaDB
 Store
+Storage
 Key
 Value
 Normalized
@@ -89,3 +91,13 @@ Load
 Balancer
 Gateway
 Routing
+Callback
+Poll
+Polling
+Atomic
+ACID
+Isolation
+Write-Through
+Write-Behind
+Write-Around
+Distributed
