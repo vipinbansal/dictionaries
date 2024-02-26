@@ -8,7 +8,10 @@ Low
 Level
 Latency
 Available
+Availability
+Redundancy
 Consistency
+Consistent
 Scalable
 Users
 Database
