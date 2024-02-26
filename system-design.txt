@@ -41,6 +41,7 @@ Client
 Library
 Pub-Sub
 Queue
+Parallel
 Stream
 Read
 Write
@@ -62,3 +63,9 @@ ExaByte
 msec
 usec
 nsec
+Deep
+Dive
+Block
+Diagram
+Storage
+Hotspot
