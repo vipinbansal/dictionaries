@@ -54,3 +54,11 @@ Persistent
 Durable
 STPHAG
 SH-TPC-G
+Million
+Billion
+TeraByte
+PetaByte
+ExaByte
+msec
+usec
+nsec
