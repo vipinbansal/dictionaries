@@ -101,3 +101,9 @@ Write-Through
 Write-Behind
 Write-Around
 Distributed
+Table
+Collection
+Shard
+Persistent
+Fault
+Tolerance
