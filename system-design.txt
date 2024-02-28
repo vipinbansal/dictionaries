@@ -51,7 +51,7 @@ Redis
 Redundancy
 Replication
 Requirements
-SH-TPC-G
+SH-TPC-AG
 STPHAG
 Scalable
 Security
