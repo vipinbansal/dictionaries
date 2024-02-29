@@ -5,6 +5,7 @@ Block
 Bloom
 Cache
 Cassandra
+Characteristics
 Client
 Consistency
 Consistent
