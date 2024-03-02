@@ -7,6 +7,7 @@ Cache
 Cassandra
 Characteristics
 Client
+Components
 Consistency
 Consistent
 Data
@@ -56,6 +57,7 @@ SH-TPCI-AF
 STPHAG
 Scalable
 Security
+Selection
 Sharding
 Simultaneous
 Single
